@@ -1,0 +1,52 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://www.hotelinfantacristina.com/",
+ "read_at": "2026-10-30T10:52:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://www.hotelinfantacristina.com/",
+   "sha256": "7188400852e3d7ba4e8660cbb459eb4753008a4b9946f9903ae47fa959050829",
+   "chars": 4072
+  },
+  {
+   "url": "https://www.hotelinfantacristina.com/aviso-legal.html",
+   "sha256": "260d2aeb6b2d5e40c9fa1e9c9a8a594d3a2cc5f3908716e920649d837641db98",
+   "chars": 4337
+  },
+  {
+   "url": "https://www.hotelinfantacristina.com/habitaciones.html",
+   "sha256": "bf16f9cf36f47714b82494c0cf72cec471709eeea3e55331eeb1fbfe34681634",
+   "chars": 6623
+  },
+  {
+   "url": "https://www.hotelinfantacristina.com/salones.html",
+   "sha256": "e3d20ea823a80f4ce2c371a6f76eb207bdb2e2c4e29abb1b14dcc181d3bfb001",
+   "chars": 6760
+  },
+  {
+   "url": "https://www.hotelinfantacristina.com/servicios.html",
+   "sha256": "8f0382a75e86abacef33cca0a0433bb1f21f8538076d2489ab56870210c41462",
+   "chars": 3943
+  }
+ ],
+ "other_pages_read": [
+  "https://www.hotelinfantacristina.com",
+  "https://www.hotelinfantacristina.com/EN/home.html",
+  "https://www.hotelinfantacristina.com/contacto.html",
+  "https://www.hotelinfantacristina.com/cookies.html",
+  "https://www.hotelinfantacristina.com/descubra-jaen.html",
+  "https://www.hotelinfantacristina.com/habitacion-doble-/-twin.html",
+  "https://www.hotelinfantacristina.com/habitacion-doble-con-salon.html",
+  "https://www.hotelinfantacristina.com/habitacion-doble-nino.html",
+  "https://www.hotelinfantacristina.com/habitacion-doble-uso-individual-estandar.html",
+  "https://www.hotelinfantacristina.com/habitacion-junior-suite.html",
+  "https://www.hotelinfantacristina.com/p.-jaen-p.-angel.html",
+  "https://www.hotelinfantacristina.com/promociones.html",
+  "https://www.hotelinfantacristina.com/puerta-de-jaen.html",
+  "https://www.hotelinfantacristina.com/puerta-de-martos.html",
+  "https://www.hotelinfantacristina.com/restaurante.html",
+  "https://www.hotelinfantacristina.com/su-hotel-de-referencia-en-el-corazon-de-la-ciudad.html",
+  "https://www.hotelinfantacristina.com/victoria-carolina.html"
+ ]
+}
