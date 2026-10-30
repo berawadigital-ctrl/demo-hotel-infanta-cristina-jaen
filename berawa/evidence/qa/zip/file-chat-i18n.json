@@ -1,0 +1,399 @@
+{
+ "url": "file:///tmp/zip-hotel-infanta-cristina-jaen/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué habitaciones tenéis?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Tiene 78 habitaciones: doble / twin, Junior Suite, doble con salón, doble + niño y doble de uso individual. Todas son insonorizadas y con ba"
+    },
+    {
+     "q": "¿Hay piscina?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Sí, el hotel tiene piscina al aire libre."
+    },
+    {
+     "q": "¿Tenéis aparcamiento?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Sí, tiene aparcamiento privado de pago."
+    },
+    {
+     "q": "¿Hay gimnasio?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Sí, el hotel tiene gimnasio."
+    },
+    {
+     "q": "¿Tenéis restaurante?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Sí, el Restaurante Az-Zait está en el propio hotel, con propuestas tradicionales del chef llenas de sabores andaluces."
+    },
+    {
+     "q": "¿Hay desayuno?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Sí, ofrecen desayuno bufé (los platos calientes se hacen al momento) y servicio de cafetería."
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Puedes buscar disponibilidad y reservar en el motor de su web (botón Reservar) o llamar al +34 953263040. Este asistente no confirma disponi"
+    },
+    {
+     "q": "¿Podéis confirmarme disponibilidad para mañana?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Puedes buscar disponibilidad y reservar en el motor de su web (botón Reservar) o llamar al +34 953263040. Este asistente no confirma disponi"
+    },
+    {
+     "q": "¿Dónde está el hotel?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Está en la Ctra. de Madrid nº3, 23009 Jaén."
+    },
+    {
+     "q": "¿Cuál es el teléfono?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Teléfono +34 953263040 y correo hotel@hotelinfantacristina.com, según el aviso legal de su web."
+    },
+    {
+     "q": "¿Tenéis salones para eventos?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Tiene 9 salones con capacidad para entre 8 y 600 personas, para eventos de empresa o celebraciones familiares."
+    },
+    {
+     "q": "¿Puedo cargar mi coche eléctrico?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Sí, entre sus servicios figura la carga de vehículos eléctricos."
+    },
+    {
+     "q": "¿Cuánto cuesta la noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 953 263040 · reservas@hotelinfantacristina.com."
+    },
+    {
+     "q": "¿Admitís mascotas?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 953 263040 · reservas@hotelinfantacristina.com."
+    }
+   ],
+   "chips": [
+    "¿Qué habitaciones tenéis?",
+    "¿Hay piscina?",
+    "¿Tenéis aparcamiento?",
+    "¿Cómo reservo?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k",
+    "loc_p"
+   ],
+   "chat": [
+    {
+     "q": "Which rooms do you have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "It has 78 rooms: double / twin, Junior Suite, double with lounge, double + child and single-use double. All are soundproofed with a full pri"
+    },
+    {
+     "q": "Is there a pool?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Yes, the hotel has an outdoor pool."
+    },
+    {
+     "q": "Is there parking?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Yes, there is private paid parking."
+    },
+    {
+     "q": "Is there a gym?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Yes, the hotel has a gym."
+    },
+    {
+     "q": "Do you have a restaurant?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Yes, the Az-Zait Restaurant is inside the hotel, with the chef’s traditional dishes full of Andalusian flavours."
+    },
+    {
+     "q": "Is breakfast available?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Yes, there is a breakfast buffet (hot dishes are cooked to order) and a café service."
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "You can check availability and book on their website’s booking engine (Book button) or call +34 953263040. This assistant does not confirm a"
+    },
+    {
+     "q": "Can you confirm availability for tomorrow?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "You can check availability and book on their website’s booking engine (Book button) or call +34 953263040. This assistant does not confirm a"
+    },
+    {
+     "q": "Where is the hotel?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "It is at Ctra. de Madrid nº3, 23009 Jaén."
+    },
+    {
+     "q": "What is the phone number?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Phone +34 953263040 and email hotel@hotelinfantacristina.com, according to the legal notice on their website."
+    },
+    {
+     "q": "Do you have event rooms?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "It has 9 rooms for between 8 and 600 people, for corporate events or family celebrations."
+    },
+    {
+     "q": "Can I charge my electric car?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Yes, electric vehicle charging is listed among their services."
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 953 263040 · reservas@hotelinfantacristina.com."
+    },
+    {
+     "q": "Do you accept pets?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 953 263040 · reservas@hotelinfantacristina.com."
+    }
+   ],
+   "chips": [
+    "Which rooms do you have?",
+    "Is there a pool?",
+    "Is there parking?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k",
+    "loc_p"
+   ],
+   "chat": [
+    {
+     "q": "Quelles chambres avez-vous ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il compte 78 chambres : double / twin, Junior Suite, double avec salon, double + enfant et double usage individuel. Toutes sont insonorisées"
+    },
+    {
+     "q": "Y a-t-il une piscine ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Oui, l’hôtel a une piscine extérieure."
+    },
+    {
+     "q": "Avez-vous un parking ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Oui, il y a un parking privé payant."
+    },
+    {
+     "q": "Y a-t-il une salle de sport ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Oui, l’hôtel a une salle de sport."
+    },
+    {
+     "q": "Avez-vous un restaurant ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Oui, le restaurant Az-Zait se trouve dans l’hôtel, avec les propositions traditionnelles du chef aux saveurs andalouses."
+    },
+    {
+     "q": "Y a-t-il un petit-déjeuner ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Oui, un petit-déjeuner buffet est proposé (les plats chauds sont préparés à la minute) ainsi qu’un service de cafétéria."
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Vous pouvez vérifier la disponibilité et réserver sur le moteur de leur site (bouton Réserver) ou appeler le +34 953263040. Cet assistant ne"
+    },
+    {
+     "q": "Pouvez-vous me confirmer la disponibilité pour demain ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Vous pouvez vérifier la disponibilité et réserver sur le moteur de leur site (bouton Réserver) ou appeler le +34 953263040. Cet assistant ne"
+    },
+    {
+     "q": "Où se trouve l’hôtel ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Il se trouve Ctra. de Madrid nº3, 23009 Jaén."
+    },
+    {
+     "q": "Quel est le numéro de téléphone ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Téléphone +34 953263040 et courriel hotel@hotelinfantacristina.com, selon les mentions légales de leur site."
+    },
+    {
+     "q": "Avez-vous des salons pour événements ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Il dispose de 9 salons pouvant accueillir de 8 à 600 personnes, pour des événements d’entreprise ou des fêtes de famille."
+    },
+    {
+     "q": "Puis-je recharger ma voiture électrique ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Oui, la recharge de véhicules électriques figure parmi leurs services."
+    },
+    {
+     "q": "Combien coûte la nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 953 263040 · reservas@hotelinfantacristina.com."
+    },
+    {
+     "q": "Acceptez-vous les animaux ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 953 263040 · reservas@hotelinfantacristina.com."
+    }
+   ],
+   "chips": [
+    "Quelles chambres avez-vous ?",
+    "Y a-t-il une piscine ?",
+    "Avez-vous un parking ?",
+    "Comment réserver ?"
+   ]
+  },
+  "de": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k",
+    "loc_p"
+   ],
+   "chat": [
+    {
+     "q": "Welche Zimmer gibt es?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Es hat 78 Zimmer: Doppel / Twin, Junior Suite, Doppel mit Salon, Doppel + Kind und Doppel zur Einzelnutzung. Alle sind schallisoliert und ha"
+    },
+    {
+     "q": "Gibt es einen Pool?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Ja, das Hotel hat einen Außenpool."
+    },
+    {
+     "q": "Gibt es Parkplätze?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Ja, es gibt einen kostenpflichtigen Privatparkplatz."
+    },
+    {
+     "q": "Gibt es einen Fitnessraum?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Ja, das Hotel hat einen Fitnessraum."
+    },
+    {
+     "q": "Haben Sie ein Restaurant?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Ja, das Restaurant Az-Zait befindet sich im Hotel, mit traditionellen Gerichten des Küchenchefs voller andalusischer Aromen."
+    },
+    {
+     "q": "Gibt es Frühstück?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Ja, es gibt ein Frühstücksbuffet (warme Gerichte werden frisch zubereitet) und einen Cafeteria-Service."
+    },
+    {
+     "q": "Wie kann ich buchen?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Sie können über die Buchungsmaschine der Website (Schaltfläche Buchen) die Verfügbarkeit prüfen und buchen oder +34 953263040 anrufen. Diese"
+    },
+    {
+     "q": "Können Sie mir die Verfügbarkeit für morgen bestätigen?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Sie können über die Buchungsmaschine der Website (Schaltfläche Buchen) die Verfügbarkeit prüfen und buchen oder +34 953263040 anrufen. Diese"
+    },
+    {
+     "q": "Wo liegt das Hotel?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Es liegt an der Ctra. de Madrid nº3, 23009 Jaén."
+    },
+    {
+     "q": "Wie lautet die Telefonnummer?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Telefon +34 953263040 und E-Mail hotel@hotelinfantacristina.com, laut Impressum ihrer Website."
+    },
+    {
+     "q": "Haben Sie Veranstaltungsräume?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Es hat 9 Säle für 8 bis 600 Personen, für Firmenveranstaltungen oder Familienfeiern."
+    },
+    {
+     "q": "Kann ich mein Elektroauto laden?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Ja, das Laden von Elektrofahrzeugen gehört zu ihren Leistungen."
+    },
+    {
+     "q": "Was kostet eine Nacht?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 953 263040 · reservas@hotelinfantacristina.com."
+    },
+    {
+     "q": "Sind Haustiere erlaubt?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 953 263040 · reservas@hotelinfantacristina.com."
+    }
+   ],
+   "chips": [
+    "Welche Zimmer gibt es?",
+    "Gibt es einen Pool?",
+    "Gibt es Parkplätze?",
+    "Wie kann ich buchen?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}
