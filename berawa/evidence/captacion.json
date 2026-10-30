@@ -1,0 +1,31 @@
+{
+ "schema": "berawa-captacion/1",
+ "negocio": "hotel-infanta-cristina-jaen",
+ "maps": {
+  "fecha": "2026-10-29T14:53:36+01:00",
+  "estado": "LEIDA",
+  "ficha": "Hotel Infanta Cristina",
+  "nota": 4.2,
+  "coincide": {
+   "tel": true,
+   "web": true,
+   "dir": false
+  },
+  "url": "https://www.google.com/maps/place/Hotel+Infanta+Cristina/@37.7813349,-3.7838338,17z/data=!4m9!3m8!1s0xd6dd7a82274df0b:0xdb130defd29e77e7!5m2!4m1!1i2!8m2!3d37.7813349!4d-3.7838338!16s%2Fg%2F1tqp_lpl",
+  "herramienta": "factory/webfactory/maps_rating.py"
+ },
+ "web_filtro": {
+  "fecha": "2026-10-29T14:53:36+01:00",
+  "veredicto": "MEJORABLE",
+  "informe_velocidad": "LCP > 4 s",
+  "herramienta": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "titular": {
+  "razon_social": "HIJOS JUAN DELGADO MARTÍNEZ S.L.; un solo hotel",
+  "cif": "B23310287",
+  "fuente": "https://www.hotelinfantacristina.com/aviso-legal.html",
+  "persona_juridica": true,
+  "cadena": false,
+  "nota": "aviso legal de su web; portada de un solo hotel, sin otros establecimientos"
+ }
+}
