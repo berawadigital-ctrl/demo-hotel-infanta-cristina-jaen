@@ -1,0 +1,63 @@
+{
+ "schema": "berawa-project/1",
+ "slug": "demo-hotel-infanta-cristina-jaen",
+ "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
+ "created_at": "2026-10-30T10:52:00+01:00",
+ "updated_at": "2026-10-30T11:10:00+01:00",
+ "business": {
+  "name": "Hotel Infanta Cristina",
+  "legal_name": "HIJOS JUAN DELGADO MARTÍNEZ S.L. (aviso legal de su web)",
+  "registry_ids": [
+   "B23310287"
+  ],
+  "url": "https://www.hotelinfantacristina.com/",
+  "domain": "hotelinfantacristina.com",
+  "municipality": "Jaén",
+  "province": "Jaén",
+  "address": "Ctra. de Madrid 3 · 23009 Jaén",
+  "phones": [
+   "+34 953 263040"
+  ],
+  "emails": [
+   "reservas@hotelinfantacristina.com"
+  ],
+  "sector": "hotel urbano de 78 habitaciones en Jaén"
+ },
+ "rating": {
+  "value": 4.2,
+  "source": "Google Maps (maps_rating.py, ficha comprobada por tel, web)",
+  "url": "https://www.google.com/maps/place/Hotel+Infanta+Cristina/@37.7813349,-3.7838338,17z/data=!4m9!3m8!1s0xd6dd7a82274df0b:0xdb130defd29e77e7!5m2!4m1!1i2!8m2!3d37.7813349!4d-3.7838338!16s%2Fg%2F1tqp_lpl",
+  "date": "2026-10-29",
+  "threshold": 4.0
+ },
+ "languages": [
+  "es",
+  "en",
+  "fr",
+  "de"
+ ],
+ "noindex": true,
+ "notice_es": "Propuesta de rediseño independiente, no oficial",
+ "chatbot": {
+  "api": false,
+  "kind": "base local de respuestas verificadas",
+  "knowledge": "berawa/knowledge.json",
+  "fallback_es": "No dispongo de esa información"
+ },
+ "book": {
+  "mode": "engine",
+  "url": "https://www.hotelinfantacristina.com/reservar.html",
+  "note": "motor de reservas real de su web (página reservar.html con el buscador Keytel/Synergy; versión inglesa EN/booking.html), HTTP 200 comprobado el 30/10/2026; su web solo está en español e inglés: fr y de usan la versión inglesa."
+ },
+ "audit_original": {
+  "url": "https://www.hotelinfantacristina.com/",
+  "date": "2026-10-30T10:50:44+01:00",
+  "veredicto": "LCP > 4 s",
+  "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "first_of_type": "no aplica: alojamiento con precedente en demos anteriores",
+ "codex": {
+  "audits": []
+ },
+ "changes_log": "ver CORRECCIONES.md (si existe) y berawa/V1.0-CAMBIOS.md"
+}
