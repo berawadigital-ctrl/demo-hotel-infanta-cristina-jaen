@@ -1,0 +1,493 @@
+{
+ "schema": "berawa-knowledge/1",
+ "project": "demo-hotel-infanta-cristina-jaen",
+ "source_site": "https://www.hotelinfantacristina.com/",
+ "source_read_at": "2026-10-30T10:52:00+01:00",
+ "note": "Respuestas solo con datos publicados en la web del negocio. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.",
+ "entries": [
+  {
+   "id": "K01",
+   "topic": "habitaciones",
+   "keys": {
+    "es": [
+     "que habitaciones",
+     "tipos de habitacion",
+     "habitaciones",
+     "junior suite",
+     "suite",
+     "twin"
+    ],
+    "en": [
+     "which rooms",
+     "room types",
+     "junior suite",
+     "suite",
+     "twin"
+    ],
+    "fr": [
+     "quelles chambres",
+     "types de chambre",
+     "chambres",
+     "junior suite",
+     "suite",
+     "twin"
+    ],
+    "de": [
+     "welche zimmer",
+     "zimmertyp",
+     "zimmer",
+     "junior suite",
+     "suite",
+     "twin"
+    ]
+   },
+   "a": {
+    "es": "Tiene 78 habitaciones: doble / twin, Junior Suite, doble con salón, doble + niño y doble de uso individual. Todas son insonorizadas y con baño privado completo.",
+    "en": "It has 78 rooms: double / twin, Junior Suite, double with lounge, double + child and single-use double. All are soundproofed with a full private bathroom.",
+    "fr": "Il compte 78 chambres : double / twin, Junior Suite, double avec salon, double + enfant et double usage individuel. Toutes sont insonorisées avec salle de bain privée complète.",
+    "de": "Es hat 78 Zimmer: Doppel / Twin, Junior Suite, Doppel mit Salon, Doppel + Kind und Doppel zur Einzelnutzung. Alle sind schallisoliert und haben ein komplettes eigenes Bad."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelinfantacristina.com/habitaciones.html",
+     "quote": "Cada una de nuestras 78 habitaciones están pensadas para su máxima comodidad."
+    },
+    {
+     "url": "https://www.hotelinfantacristina.com/habitaciones.html",
+     "quote": "Habitación doble / Twin Habitación Junior Suite Habitación doble con salón Habitación doble + niño Habitación doble uso individual estándar"
+    },
+    {
+     "url": "https://www.hotelinfantacristina.com/habitaciones.html",
+     "quote": "Todas nuestras amplias habitaciones están insonorizadas y equipadas con baño privado completo."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K02",
+   "topic": "piscina",
+   "keys": {
+    "es": [
+     "piscina",
+     "bañar",
+     "banar"
+    ],
+    "en": [
+     "pool",
+     "swim"
+    ],
+    "fr": [
+     "piscine",
+     "baigner"
+    ],
+    "de": [
+     "pool",
+     "schwimm"
+    ]
+   },
+   "a": {
+    "es": "Sí, el hotel tiene piscina al aire libre.",
+    "en": "Yes, the hotel has an outdoor pool.",
+    "fr": "Oui, l’hôtel a une piscine extérieure.",
+    "de": "Ja, das Hotel hat einen Außenpool."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelinfantacristina.com/",
+     "quote": "Piscina al aire libre"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K03",
+   "topic": "aparcamiento",
+   "keys": {
+    "es": [
+     "aparcamiento",
+     "aparcar",
+     "parking",
+     "garaje",
+     "coche"
+    ],
+    "en": [
+     "parking",
+     "park",
+     "garage",
+     " car"
+    ],
+    "fr": [
+     "parking",
+     "garer",
+     "garage",
+     "voiture"
+    ],
+    "de": [
+     "parkpl",
+     "parken",
+     "garage",
+     "auto "
+    ]
+   },
+   "a": {
+    "es": "Sí, tiene aparcamiento privado de pago.",
+    "en": "Yes, there is private paid parking.",
+    "fr": "Oui, il y a un parking privé payant.",
+    "de": "Ja, es gibt einen kostenpflichtigen Privatparkplatz."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelinfantacristina.com/",
+     "quote": "Aparcamiento privado de pago"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K04",
+   "topic": "gimnasio",
+   "keys": {
+    "es": [
+     "gimnasio",
+     "gym",
+     "deporte"
+    ],
+    "en": [
+     "gym",
+     "fitness"
+    ],
+    "fr": [
+     "salle de sport",
+     "gym",
+     "fitness"
+    ],
+    "de": [
+     "fitness",
+     "gym"
+    ]
+   },
+   "a": {
+    "es": "Sí, el hotel tiene gimnasio.",
+    "en": "Yes, the hotel has a gym.",
+    "fr": "Oui, l’hôtel a une salle de sport.",
+    "de": "Ja, das Hotel hat einen Fitnessraum."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelinfantacristina.com/",
+     "quote": "Gimnasio Hotel Infanta Cristina"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K05",
+   "topic": "restaurante",
+   "keys": {
+    "es": [
+     "restaurante",
+     "comer",
+     "cenar",
+     "az-zait",
+     "cocina"
+    ],
+    "en": [
+     "restaurant",
+     "dinner",
+     "lunch",
+     "az-zait",
+     "eat"
+    ],
+    "fr": [
+     "restaurant",
+     "diner",
+     "dejeuner",
+     "az-zait",
+     "manger"
+    ],
+    "de": [
+     "restaurant",
+     "essen",
+     "abendessen",
+     "az-zait"
+    ]
+   },
+   "a": {
+    "es": "Sí, el Restaurante Az-Zait está en el propio hotel, con propuestas tradicionales del chef llenas de sabores andaluces.",
+    "en": "Yes, the Az-Zait Restaurant is inside the hotel, with the chef’s traditional dishes full of Andalusian flavours.",
+    "fr": "Oui, le restaurant Az-Zait se trouve dans l’hôtel, avec les propositions traditionnelles du chef aux saveurs andalouses.",
+    "de": "Ja, das Restaurant Az-Zait befindet sich im Hotel, mit traditionellen Gerichten des Küchenchefs voller andalusischer Aromen."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelinfantacristina.com/servicios.html",
+     "quote": "Descubra nuevos sabores en el Restaurante Az-Zait , situado en el hotel."
+    },
+    {
+     "url": "https://www.hotelinfantacristina.com/servicios.html",
+     "quote": "Deléitese con las propuestas tradicionales de nuestro chef llenas de sabores andaluces."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K06",
+   "topic": "desayuno",
+   "keys": {
+    "es": [
+     "desayuno",
+     "desayunar",
+     "bufet",
+     "bufe"
+    ],
+    "en": [
+     "breakfast",
+     "buffet"
+    ],
+    "fr": [
+     "petit-dejeuner",
+     "petit dejeuner",
+     "buffet"
+    ],
+    "de": [
+     "fruhstuck",
+     "buffet"
+    ]
+   },
+   "a": {
+    "es": "Sí, ofrecen desayuno bufé (los platos calientes se hacen al momento) y servicio de cafetería.",
+    "en": "Yes, there is a breakfast buffet (hot dishes are cooked to order) and a café service.",
+    "fr": "Oui, un petit-déjeuner buffet est proposé (les plats chauds sont préparés à la minute) ainsi qu’un service de cafétéria.",
+    "de": "Ja, es gibt ein Frühstücksbuffet (warme Gerichte werden frisch zubereitet) und einen Cafeteria-Service."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelinfantacristina.com/servicios.html",
+     "quote": "También ofrecemos un exquisito desayuno bufet* y un servicio de cafetería a disposición del cliente"
+    },
+    {
+     "url": "https://www.hotelinfantacristina.com/servicios.html",
+     "quote": "En el desayuno bufet, los platos calientes se realizan sobre la marcha."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K07",
+   "topic": "reservar",
+   "keys": {
+    "es": [
+     "reserv",
+     "disponib",
+     "confirm"
+    ],
+    "en": [
+     "book",
+     "reserv",
+     "availab",
+     "confirm"
+    ],
+    "fr": [
+     "reserv",
+     "disponib",
+     "confirm"
+    ],
+    "de": [
+     "buch",
+     "reserv",
+     "verfugbar",
+     "bestatig"
+    ]
+   },
+   "a": {
+    "es": "Puedes buscar disponibilidad y reservar en el motor de su web (botón Reservar) o llamar al +34 953263040. Este asistente no confirma disponibilidad ni reservas.",
+    "en": "You can check availability and book on their website’s booking engine (Book button) or call +34 953263040. This assistant does not confirm availability or bookings.",
+    "fr": "Vous pouvez vérifier la disponibilité et réserver sur le moteur de leur site (bouton Réserver) ou appeler le +34 953263040. Cet assistant ne confirme ni disponibilité ni réservation.",
+    "de": "Sie können über die Buchungsmaschine der Website (Schaltfläche Buchen) die Verfügbarkeit prüfen und buchen oder +34 953263040 anrufen. Dieser Assistent bestätigt weder Verfügbarkeit noch Buchungen."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelinfantacristina.com/aviso-legal.html",
+     "quote": "teléfono +34 953263040"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K08",
+   "topic": "ubicacion",
+   "keys": {
+    "es": [
+     "donde",
+     "direccion",
+     "ubicacion",
+     "como llegar"
+    ],
+    "en": [
+     "where",
+     "address",
+     "location",
+     "get there"
+    ],
+    "fr": [
+     "ou se trouv",
+     "adresse",
+     "emplacement",
+     "acceder"
+    ],
+    "de": [
+     "wo liegt",
+     "adresse",
+     "lage",
+     "anfahrt"
+    ]
+   },
+   "a": {
+    "es": "Está en la Ctra. de Madrid nº3, 23009 Jaén.",
+    "en": "It is at Ctra. de Madrid nº3, 23009 Jaén.",
+    "fr": "Il se trouve Ctra. de Madrid nº3, 23009 Jaén.",
+    "de": "Es liegt an der Ctra. de Madrid nº3, 23009 Jaén."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelinfantacristina.com/",
+     "quote": "Dirección Ctra de Madrid nº3 23009 Jaén"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K09",
+   "topic": "contacto",
+   "keys": {
+    "es": [
+     "telefono",
+     "llamar",
+     "correo",
+     "email",
+     "contacto"
+    ],
+    "en": [
+     "phone",
+     "call",
+     "email",
+     "contact"
+    ],
+    "fr": [
+     "telephone",
+     "appeler",
+     "courriel",
+     "email",
+     "contact"
+    ],
+    "de": [
+     "telefon",
+     "anrufen",
+     "e-mail",
+     "email",
+     "kontakt"
+    ]
+   },
+   "a": {
+    "es": "Teléfono +34 953263040 y correo hotel@hotelinfantacristina.com, según el aviso legal de su web.",
+    "en": "Phone +34 953263040 and email hotel@hotelinfantacristina.com, according to the legal notice on their website.",
+    "fr": "Téléphone +34 953263040 et courriel hotel@hotelinfantacristina.com, selon les mentions légales de leur site.",
+    "de": "Telefon +34 953263040 und E-Mail hotel@hotelinfantacristina.com, laut Impressum ihrer Website."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelinfantacristina.com/aviso-legal.html",
+     "quote": "teléfono +34 953263040 e e-mail hotel@hotelinfantacristina.com"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K10",
+   "topic": "salones",
+   "keys": {
+    "es": [
+     "salon",
+     "salones",
+     "evento",
+     "boda",
+     "reunion",
+     "congreso"
+    ],
+    "en": [
+     "event",
+     "meeting",
+     "wedding",
+     "conference"
+    ],
+    "fr": [
+     "salons pour",
+     "evenement",
+     "reunion",
+     "mariage",
+     "seminaire"
+    ],
+    "de": [
+     "veranstaltung",
+     "tagung",
+     "hochzeit",
+     "konferenz"
+    ]
+   },
+   "a": {
+    "es": "Tiene 9 salones con capacidad para entre 8 y 600 personas, para eventos de empresa o celebraciones familiares.",
+    "en": "It has 9 rooms for between 8 and 600 people, for corporate events or family celebrations.",
+    "fr": "Il dispose de 9 salons pouvant accueillir de 8 à 600 personnes, pour des événements d’entreprise ou des fêtes de famille.",
+    "de": "Es hat 9 Säle für 8 bis 600 Personen, für Firmenveranstaltungen oder Familienfeiern."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelinfantacristina.com/salones.html",
+     "quote": "El Hotel Infanta Cristina tiene preparados 9 salones , decorados elegantemente, con capacidad para entre 8 y 600 personas ."
+    },
+    {
+     "url": "https://www.hotelinfantacristina.com/salones.html",
+     "quote": "ideales para eventos de empresa o celebraciones familiares"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K11",
+   "topic": "carga_electrica",
+   "keys": {
+    "es": [
+     "electrico",
+     "cargar",
+     "carga"
+    ],
+    "en": [
+     "electric",
+     "charg"
+    ],
+    "fr": [
+     "electrique",
+     "recharg"
+    ],
+    "de": [
+     "elektro",
+     "laden",
+     "ladestation"
+    ]
+   },
+   "a": {
+    "es": "Sí, entre sus servicios figura la carga de vehículos eléctricos.",
+    "en": "Yes, electric vehicle charging is listed among their services.",
+    "fr": "Oui, la recharge de véhicules électriques figure parmi leurs services.",
+    "de": "Ja, das Laden von Elektrofahrzeugen gehört zu ihren Leistungen."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelinfantacristina.com/servicios.html",
+     "quote": "Carga de vehículos eléctricos"
+    }
+   ],
+   "cta": false
+  }
+ ]
+}
